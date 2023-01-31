@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am currently pursuing my master's degree in Computer Science with a major in Distributed Systems at the University of Basel.
-These days I am designing and developing a multimodal-multimedia retrieval engine as part of my master's thesis.
+I am currently a PhD candidate in Computer Science at the University of Basel.
+These days I am researching multimedia retrieval, focusing on user experiences in Mixed Reality.
 
 
 📫 How to reach me: 
